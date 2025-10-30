@@ -104,7 +104,7 @@ On mobile devices (screens ≤768px), the navigation automatically switches to a
 
 The main page shows all your sensors with real-time status information.
 
-![Sensors List Page](images/sensor-list.png)
+![Sensors List Page](images/main-dashboard.png)
 *Figure 5: Sensors list with all columns, sorting indicators, and search functionality*
 
 #### Sensor Information Columns
@@ -399,7 +399,7 @@ The platform is fully responsive and optimized for mobile devices.
 
 ### Mobile Navigation
 
-![Mobile Navigation Detail](images/mobile-navigation-detail.png)
+![Mobile Navigation Detail](images/mobile-navigation.png)
 *Figure 25: Detailed mobile navigation layout*
 
 **Navigation Layout:**
@@ -427,7 +427,7 @@ The platform is fully responsive and optimized for mobile devices.
 
 #### Sensor Not Appearing
 
-![Missing Sensor](images/missing-sensor.png)
+![Missing Sensor](images/device-management-panel.png)
 *Figure 27: Device management panel for troubleshooting missing sensors*
 
 **Solutions:**
@@ -438,8 +438,8 @@ The platform is fully responsive and optimized for mobile devices.
 
 #### Data Not Updating
 
-![Stale Data](images/stale-data.png)
-*Figure 28: Refresh indicators and auto-update settings*
+<!-- ![Stale Data](images/stale-data.png)
+*Figure 28: Refresh indicators and auto-update settings* -->
 
 **Solutions:**
 - Check auto-refresh is enabled
@@ -449,8 +449,8 @@ The platform is fully responsive and optimized for mobile devices.
 
 #### Alert Not Sending
 
-![Alert Configuration](images/alert-configuration.png)
-*Figure 29: Alert settings and email configuration for troubleshooting*
+<!-- ![Alert Configuration](images/alert-configuration.png)
+*Figure 29: Alert settings and email configuration for troubleshooting* -->
 
 **Solutions:**
 - Verify SMTP settings
@@ -460,14 +460,14 @@ The platform is fully responsive and optimized for mobile devices.
 
 ### Getting Help
 
-![Support Information](images/support-information.png)
-*Figure 30: Support resources and help information*
+<!-- ![Support Information](images/support-information.png)
+*Figure 30: Support resources and help information* -->
 
 **Support Resources:**
 - **Documentation** - This user guide
 - **System Logs** - Check for error messages
-- **Contact Support** - Technical support information
-- **Community** - User forums and discussions
+- **Contact Support** - https://ncd.io/contact-us/
+- **Community** - https://community.ncd.io
 
 ---
 
