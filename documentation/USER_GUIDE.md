@@ -1,4 +1,4 @@
-# Gateway IoT Platform - User Guide
+# Atrium Gateway - User Guide
 
 **Version 1.0.6** | **Last Updated: October 2025**
 
@@ -24,10 +24,10 @@
 
 ### First Login
 
-When you first access the Gateway IoT Platform, you'll see the login screen.
+When you first access the Atrium Gateway, you'll see the login screen.
 
 ![Login Page](images/login-page.png)
-*Figure 1: Gateway IoT Platform login screen with dark theme styling*
+*Figure 1: Atrium Gateway login screen with dark theme styling*
 
 **Default Credentials:**
 - **Username:** `ncdio`
@@ -39,8 +39,8 @@ When you first access the Gateway IoT Platform, you'll see the login screen.
 
 The platform can be accessed in two ways:
 
-1. **Local Network:** `http://[gateway-ip]/`
-2. **Remote Access:** `https://[your-subdomain].iolight.com/` (if Cloudflare tunnel is enabled)
+1. **Local Network:** `http://ncd-XXXX.local/` Where XXXX is the last for digits of the mac address of your Gateway.
+2. **Remote Access:** `https://XXXX.iolight.com/` Where XXXX is the last for digits of the mac address of your Gateway. (if Remote Access is enabled)
 
 ![Main Dashboard Overview](images/main-dashboard.png)
 *Figure 2: Main sensors list page with global navigation header and sample sensors*
@@ -49,7 +49,7 @@ The platform can be accessed in two ways:
 
 ## System Overview
 
-The Gateway IoT Platform is a comprehensive sensor monitoring system that provides:
+The Atrium Gateway is a comprehensive sensor monitoring system that provides:
 
 - **Real-time sensor monitoring** with live data updates
 - **Interactive dashboards** with time-series charts
@@ -291,7 +291,7 @@ The Alerts page shows all configured alerts and their current status.
 #### Gateway Settings
 
 - **Gateway Name** - Custom name for the gateway
-- **Remote Access** - Enable/disable Cloudflare tunnel
+- **Remote Access** - Enable/disable remote access
 - **Email Configuration** - SMTP settings for alerts
 - **Timezone** - Display timezone for emails
 - **Data Retention** - How long to keep data (days)
@@ -476,11 +476,11 @@ The platform is fully responsive and optimized for mobile devices.
 ### Remote Access
 
 **Screenshot Placeholder: Remote Access Settings**
-*Show the Cloudflare tunnel configuration and remote access settings.*
+*Show the remote access configuration and settings.*
 
 **Remote Access Features:**
 - **Secure HTTPS** - Encrypted connections
-- **Cloudflare Tunnel** - No port forwarding needed
+- **Remote Access** - No port forwarding needed
 - **Dynamic DNS** - Automatic subdomain assignment
 - **Access Control** - Enable/disable remotely
 
@@ -547,7 +547,7 @@ The system automatically checks for updates every 12 hours. You can also check m
 
 **Current Version:** 1.0.6
 **Last Updated:** October 2025
-**Platform:** Gateway IoT Platform
+**Platform:** Atrium Gateway
 
 ### Contact Information
 
@@ -558,4 +558,4 @@ For technical support or questions:
 
 ---
 
-*This user guide covers the Gateway IoT Platform v1.0.6. For the most up-to-date information, please refer to the online documentation.*
+*This user guide covers the Atrium Gateway v1.0.6. For the most up-to-date information, please refer to the online documentation.*

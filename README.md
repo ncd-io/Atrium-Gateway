@@ -1,11 +1,11 @@
-# Enterprise Gateway Pro - Documentation
+# Atrium Gateway - Documentation
 
-Welcome to the Enterprise Gateway Pro documentation repository. This repository contains all user-facing documentation for the Gateway IoT Platform.
+Welcome to the Atrium Gateway documentation repository. This repository contains all user-facing documentation for the Atrium Gateway.
 
 ## 📚 Documentation
 
 ### User Guides
-- **[User Guide](documentation/USER_GUIDE.md)** - Complete user manual for the Gateway IoT Platform
+- **[User Guide](documentation/USER_GUIDE.md)** - Complete user manual for the Atrium Gateway
 - **[Quick Start Guide](documentation/QUICK_START.md)** - Get up and running in 5 minutes
 - **[Admin Guide](documentation/ADMIN_GUIDE.md)** - System administration and deployment
 
@@ -44,4 +44,4 @@ For technical support or questions:
 
 **Version:** 1.0.6  
 **Last Updated:** October 2025  
-**Platform:** Gateway IoT Platform
+**Platform:** Atrium Gateway

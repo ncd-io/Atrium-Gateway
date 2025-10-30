@@ -1,4 +1,4 @@
-# Quick Start Guide - Gateway IoT Platform
+# Quick Start Guide - Atrium Gateway
 
 **Get up and running in 5 minutes!**
 
@@ -21,6 +21,7 @@ http://[gateway-ip]/
 ```
 
 ![Login Page](images/login-page.png)
+*Figure 1: Atrium Gateway login screen*
 
 ### Remote Access (if enabled)
 If remote access is configured:
@@ -146,4 +147,5 @@ Congratulations! You now have a fully functional sensor monitoring system.
 ---
 
 **Platform Version:** 1.0.6  
-**Last Updated:** October 2025
+**Last Updated:** October 2025  
+**Platform:** Atrium Gateway

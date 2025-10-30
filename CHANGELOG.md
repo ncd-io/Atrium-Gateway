@@ -1,6 +1,6 @@
-# Changelog - Enterprise Gateway Pro
+# Changelog - Atrium Gateway
 
-All notable changes to the Gateway IoT Platform will be documented in this file.
+All notable changes to the Atrium Gateway will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
@@ -147,14 +147,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added JWT.json subflow to all deployments
 - Updated nginx template in all deployment directories
 - Fixed PowerShell syntax errors and CRLF line endings (Windows)
-- Added cloudflare-cert.pem to deployments
+- Added remote-access certificate handling to deployments
 
 ### nginx Configuration
 - nginx-template.conf included in all deployment packages
 - Automated backup and deployment in install scripts
 - Configuration test before applying
 - Automatic rollback on failure
-- Updated Cloudflare tunnel setup scripts to port 80
+- Updated remote access setup scripts to port 80
 
 ### Database Schema
 - Added alert_history table for logging all alert events
@@ -230,7 +230,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Touch-friendly interface
   
 - **Remote Access**
-  - Cloudflare tunnel integration
+  - Remote access integration
   - Dynamic API base detection
   - Works on any gateway (MAC-agnostic)
   - Secure HTTPS access
