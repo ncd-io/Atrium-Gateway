@@ -17,7 +17,7 @@
 ### Local Access
 Open your web browser and navigate to:
 ```
-http://[gateway-ip]/
+http://ncd-XXXX.local/ Where XXXX is the last 4 digits of your gateway's MAC Address
 ```
 
 ![Login Page](images/login-page.png)
