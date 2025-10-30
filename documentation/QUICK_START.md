@@ -17,7 +17,7 @@
 ### Local Access
 Open your web browser and navigate to:
 ```
-http://ncd-XXXX.local/ Where XXXX is the last 4 digits of your gateway's MAC Address
+http://ncd-XXXX.local/ Where XXXX is the last 4 digits of your gateway's MAC Address.
 ```
 
 ![Login Page](images/login-page.png)
@@ -26,7 +26,7 @@ http://ncd-XXXX.local/ Where XXXX is the last 4 digits of your gateway's MAC Add
 ### Remote Access (if enabled)
 If remote access is configured:
 ```
-https://[your-subdomain].iolight.com/
+https://XXXX.iolight.com/ Where XXXX is the last 4 digits of your Atrium Gateway MAC address.
 ```
 
 ---
